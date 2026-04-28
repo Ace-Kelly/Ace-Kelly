@@ -37,15 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ace-Kelly&show_icons=true&theme=rose_pine&hide_border=true&icon_color=F78FB3&title_color=F78FB3" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-Kelly&layout=compact&theme=rose_pine&hide_border=true&title_color=F78FB3" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ace-Kelly&theme=rose-pine&hide_border=true&stroke=F78FB3&ring=F78FB3&fire=F78FB3&currStreakLabel=F78FB3" />
+### 前方施工中...
 </p>
 
 <p align="center">
