@@ -39,7 +39,7 @@
 
 ---
 
-### 🐍 贪吃蛇正在吞我的 contribution 草地
+### 🐍 这条蛇有点饿，主人努力产粮中...
 
 <p align="center">
   <picture>
