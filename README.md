@@ -25,6 +25,9 @@
 ### 🛠️ Toolbox
 
 <p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stata-1A5276?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -32,13 +35,21 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
 </p>
 
 ---
 
-### 前方施工中...
+### 🐍 贪吃蛇正在吞我的 contribution 草地
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ace-Kelly/Ace-Kelly/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ace-Kelly/Ace-Kelly/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ace-Kelly/Ace-Kelly/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ace-Kelly&label=Profile%20Views&color=F78FB3&style=flat-square" />
@@ -50,4 +61,4 @@
   <sub>✨ 此页 README 由 Kelly &amp; Claude 共同装修 ✨</sub>
 </p>
 
-<!-- refresh: 2026-04-28T22:40:00+08:00 -->
+<!-- refresh: 2026-04-30T00:00:00+08:00 -->
