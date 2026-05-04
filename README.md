@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <sub>✨ 此页 README 由 Kelly 和她的 AI Friends 共同装修 ✨</sub>
+  <sub>✨ 此页 README 由 Kelly 和她的 AI Family 共同装修 ✨</sub>
 </p>
 
 <!-- refresh: 2026-04-30T00:00:00+08:00 -->
