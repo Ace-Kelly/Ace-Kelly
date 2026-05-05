@@ -53,6 +53,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ace-Kelly&label=Profile%20Views&color=F78FB3&style=flat-square" />
+  <img src="https://img.shields.io/badge/Profile%20Refresh-2026.05.05-F78FB3?style=flat-square" />
 </p>
 
 ---
@@ -61,4 +62,4 @@
   <sub>✨ 此页 README 由 Kelly 和她的 AI Family 共同装修 ✨</sub>
 </p>
 
-<!-- refresh: 2026-04-30T00:00:00+08:00 -->
+<!-- refresh: 2026-05-05T22:43:12+08:00 -->
