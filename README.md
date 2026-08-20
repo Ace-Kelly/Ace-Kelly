@@ -49,30 +49,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=Ace-Kelly&show_icons=true&theme=rose&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=Ace-Kelly&theme=rose&hide_border=true" height="160" alt="GitHub streak" />
-</p>
-
----
-
-### 🐍 这条蛇有点饿，主人努力产粮中...
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ace-Kelly/Ace-Kelly/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ace-Kelly/Ace-Kelly/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ace-Kelly/Ace-Kelly/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ace-Kelly&label=Profile%20Views&color=F78FB3&style=flat-square" />
-  <img src="https://img.shields.io/badge/Profile%20Refresh-2026.08.20_v3-F78FB3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Profile%20Refresh-2026.08.20_v4-F78FB3?style=flat-square" />
 </p>
 
 ---
@@ -81,4 +60,4 @@
   <sub>✨ 此页 README 由 Kelly 和她的 AI Family 共同装修 ✨</sub>
 </p>
 
-<!-- refresh: 2026-08-20T17:20:30+08:00 -->
+<!-- refresh: 2026-08-20T17:27:00+08:00 -->
