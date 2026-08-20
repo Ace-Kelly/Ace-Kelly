@@ -44,10 +44,7 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
@@ -75,7 +72,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ace-Kelly&label=Profile%20Views&color=F78FB3&style=flat-square" />
-  <img src="https://img.shields.io/badge/Profile%20Refresh-2026.08.20_v2-F78FB3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Profile%20Refresh-2026.08.20_v3-F78FB3?style=flat-square" />
 </p>
 
 ---
@@ -84,4 +81,4 @@
   <sub>✨ 此页 README 由 Kelly 和她的 AI Family 共同装修 ✨</sub>
 </p>
 
-<!-- refresh: 2026-08-20T17:18:00+08:00 -->
+<!-- refresh: 2026-08-20T17:20:30+08:00 -->
